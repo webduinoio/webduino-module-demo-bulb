@@ -1,0 +1,12 @@
+<category id="catDemoBulb">
+  <block type="variables_set">
+    <field name="VAR">bulb</field>
+    <value name="VALUE">
+      <block type="bulb_class"></block>
+    </value>
+  </block>
+  <block type="bulb_click"></block>
+  <block type="bulb_toggle"></block>
+  <block type="bulb_set"></block>
+  <block type="bulb_status"></block>
+</category>

@@ -1,0 +1,13 @@
+Blockly.Msg.DEMO_BULB = "点击灯泡";
+Blockly.Msg.DEMO_BULB_WHEN = "当";
+Blockly.Msg.DEMO_BULB_CLICK = "被点击时执行";
+Blockly.Msg.DEMO_BULB_STATE = "设定灯泡状态为";
+Blockly.Msg.DEMO_BULB_IFELSE = "灯泡现在的状态是";
+Blockly.Msg.DEMO_BULB_TOGGLE = "切换";
+Blockly.Msg.DEMO_BULB_STATUS = "灯泡状态";
+Blockly.Msg.DEMO_BULB_SWITCH = "设定";
+Blockly.Msg.DEMO_BULB_TO = "状态为";
+Blockly.Msg.DEMO_BULB_ON = "亮起";
+Blockly.Msg.DEMO_BULB_OFF = "熄灭";
+Blockly.Msg.DEMO_BULB_CHECK_IF = "检查";
+Blockly.Msg.DEMO_BULB_IS = "灯泡是否為";

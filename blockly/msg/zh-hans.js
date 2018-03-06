@@ -1,0 +1,1 @@
+MSG.catDemoBulb = "点击灯泡";

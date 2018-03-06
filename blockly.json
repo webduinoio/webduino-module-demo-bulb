@@ -1,0 +1,14 @@
+{
+  "types": ["bulb_class", "bulb_click", "bulb_toggle", "bulb_set", "bulb_status"],
+  "category": "catDemoAll",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "bulb-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}

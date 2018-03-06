@@ -1,0 +1,13 @@
+Blockly.Msg.DEMO_BULB = "點擊燈泡";
+Blockly.Msg.DEMO_BULB_WHEN = "當";
+Blockly.Msg.DEMO_BULB_CLICK = "被點擊時執行";
+Blockly.Msg.DEMO_BULB_STATE = "設定燈泡狀態為";
+Blockly.Msg.DEMO_BULB_IFELSE = "燈泡現在的狀態是";
+Blockly.Msg.DEMO_BULB_TOGGLE = "切換";
+Blockly.Msg.DEMO_BULB_STATUS = "燈泡狀態";
+Blockly.Msg.DEMO_BULB_SWITCH = "設定";
+Blockly.Msg.DEMO_BULB_TO = "狀態為";
+Blockly.Msg.DEMO_BULB_ON = "亮起";
+Blockly.Msg.DEMO_BULB_OFF = "熄滅";
+Blockly.Msg.DEMO_BULB_CHECK_IF = "檢查";
+Blockly.Msg.DEMO_BULB_IS = "燈泡是否為";
