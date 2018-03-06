@@ -1,4 +1,4 @@
-<category id="catDemoBulb">
+<category id="catDemoBulb" index="2">
   <block type="variables_set">
     <field name="VAR">bulb</field>
     <value name="VALUE">
